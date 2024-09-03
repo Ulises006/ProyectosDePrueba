@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Alumno/Documents/Unreal Projects/Ejercicio1/Ejercicio1/Content/Blueprints/ActorA.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/Ejercicio1/Ejercicio1/Content/NewMap.umap",
+				"C:/Users/Alumno/Documents/Unreal Projects/Ejercicio1/Ejercicio1/Content/Blueprints/ActorB.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/Ejercicio1/Ejercicio1/Content/Blueprints/ActorC.uasset"
+			]
+		}
+	]
+}
